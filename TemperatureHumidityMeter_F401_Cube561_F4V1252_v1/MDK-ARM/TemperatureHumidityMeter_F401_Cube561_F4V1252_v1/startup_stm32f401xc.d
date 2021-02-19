@@ -1,0 +1,1 @@
+temperaturehumiditymeter_f401_cube561_f4v1252_v1\startup_stm32f401xc.o: startup_stm32f401xc.s
